@@ -1,6 +1,6 @@
 <img src="https://github.com/XRPL-Node/mainnet/blob/main/xrpllogo.png?raw=true">
 
-## Secure the XRP ledger. Earn XRP.
+## Secure the XRP Ledger. Earn XRP.
 Validators form the backbone of the XRP Ledger network. By processing transactions and participating in consensus, each validator helps ensure that the XRP Ledger remains among the most censorship-resistant and highest-performance blockchain networks in the world.
 
 ## Getting started
