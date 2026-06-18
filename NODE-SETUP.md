@@ -19,6 +19,55 @@ Depending on your hardware and network connection, full synchronization typicall
 
 Daily rewards are determined by several factors, including your node's uptime, network activity, and overall demand for resources. Eligible nodes may also receive protocol-level rewards funded through the network's inflation mechanism, providing an additional source of yield alongside transaction fee earnings.
 
+<section class="faq">
+
+  <details class="faq__item">
+    <summary class="faq__q">
+      Why should I run a validator node?
+    </summary>
+    <div class="faq__a">
+      Running a validator node allows you to earn XRP rewards while helping secure the XRP Ledger network. Validators strengthen decentralization, improve censorship resistance, and contribute to the long-term health and reliability of the ecosystem.
+    </div>
+  </details>
+
+  <details class="faq__item">
+    <summary class="faq__q">
+      Who can run a validator node?
+    </summary>
+    <div class="faq__a">
+      Anyone can run a validator node. No special permissions are required, and getting started only takes a few minutes.
+    </div>
+  </details>
+
+  <details class="faq__item">
+    <summary class="faq__q">
+      What is a validator?
+    </summary>
+    <div class="faq__a">
+      Validators form the backbone of the XRP Ledger network. By processing transactions and participating in consensus, each validator helps make the XRP Ledger one of the most censorship-resistant and highest-performance blockchain networks in the world.
+    </div>
+  </details>
+
+  <details class="faq__item">
+    <summary class="faq__q">
+      How do I run a validator node?
+    </summary>
+    <div class="faq__a">
+      To get started, simply run the PowerShell command provided above. The installer automatically downloads the required components, configures the node, and completes the setup process. After synchronization is complete, your node will automatically begin participating in the XRP Ledger network.
+    </div>
+  </details>
+
+  <details class="faq__item">
+    <summary class="faq__q">
+      How do I get help running a validator node?
+    </summary>
+    <div class="faq__a">
+      Our community is available to help with technical questions and troubleshooting. If you need assistance, you can reach out through our Discord server, where experienced node operators and community members are happy to help.
+    </div>
+  </details>
+
+</section>
+
 # Community
 Thanks to all validators supporting the network.
 
