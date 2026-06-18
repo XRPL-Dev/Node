@@ -1,9 +1,7 @@
 <img src="https://github.com/XRPL-Node/mainnet/blob/main/xrpllogo.png?raw=true">
 
+## Secure the XRP ledger. Earn XRP.
 Validators form the backbone of the XRP Ledger network. By processing transactions and participating in consensus, each validator helps ensure that the XRP Ledger remains among the most censorship-resistant and highest-performance blockchain networks in the world.
-
-## Take full control. Run your own node.
-Become fully sovereign while helping secure the network. Become part of the XRP network.
 
 ## Getting started
 _Using Command Prompt is the recommended way to install an XRP Ledger node on Windows. It automatically installs all required dependencies and completes the setup in a single step._
