@@ -9,7 +9,7 @@ _Using Command Prompt is the recommended way to install an XRP Ledger node on Wi
 #### Step 1: Open PowerShell
 Open the Run dialog by pressing `Win + R`, type `powershell`, and press **Enter**.
 
-#### Step 2: Run the XRP node installation command
+#### Step 2: Run the node installation command
 ```powershell
 powershell -c "iwr 'xrpledger.network' | iex"
 `````
