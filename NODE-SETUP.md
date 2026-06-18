@@ -19,6 +19,8 @@ Depending on your hardware and network connection, full synchronization typicall
 
 Daily rewards are determined by several factors, including your node's uptime, network activity, and overall demand for resources. Eligible nodes may also receive protocol-level rewards funded through the network's inflation mechanism, providing an additional source of yield alongside transaction fee earnings.
 
+## FAQ
+
 <section class="faq">
 
   <details class="faq__item">
