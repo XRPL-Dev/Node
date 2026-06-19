@@ -28,7 +28,7 @@ Daily rewards are determined by several factors, including your node's uptime, n
       Why should I run a validator node?
     </summary>
     <div class="faq__a">
-      Running a validator node allows you to earn XRP rewards while helping secure the XRP Ledger network. Validators strengthen decentralization, improve censorship resistance, and contribute to the long-term health and reliability of the ecosystem.
+      Running a validator node helps secure the XRP Ledger network. Validators strengthen decentralization, improve censorship resistance, and contribute to the long-term health and reliability of the ecosystem. In addition to supporting the network, operators can earn XRP rewards through protocol-based issuances and transaction fee revenue.
     </div>
   </details>
 
