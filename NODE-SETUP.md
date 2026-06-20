@@ -1,6 +1,6 @@
 <img src="https://github.com/XRPL-Node/mainnet/blob/main/xrpllogo.png?raw=true">
 
-## Run Your Own XRPL Node.
+## Run Your Own XRPL Node
 XRPL nodes form the backbone of the XRP Ledger network. By relaying transactions, maintaining ledger history, and participating in consensus, they help ensure that the XRP Ledger remains one of the most resilient and censorship-resistant blockchain networks.
 
 ## Getting started 
